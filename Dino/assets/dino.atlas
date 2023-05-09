@@ -1,0 +1,90 @@
+
+dino.png
+size: 2048, 512
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+bat
+  rotate: false
+  xy: 1035, 153
+  size: 70, 47
+  orig: 70, 47
+  offset: 0, 0
+  index: -1
+bat_fly
+  rotate: false
+  xy: 904, 90
+  size: 88, 37
+  orig: 88, 37
+  offset: 0, 0
+  index: -1
+cactus
+  rotate: false
+  xy: 133, 3
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+cloud1
+  rotate: false
+  xy: 1806, 431
+  size: 128, 71
+  orig: 128, 71
+  offset: 0, 0
+  index: -1
+cloud2
+  rotate: false
+  xy: 904, 129
+  size: 129, 71
+  orig: 129, 71
+  offset: 0, 0
+  index: -1
+cloud3
+  rotate: false
+  xy: 2, 2
+  size: 129, 71
+  orig: 129, 71
+  offset: 0, 0
+  index: -1
+dino
+  rotate: false
+  xy: 205, 30
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+dino_default
+  rotate: false
+  xy: 1936, 459
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+dino_duck
+  rotate: false
+  xy: 1107, 174
+  size: 55, 26
+  orig: 55, 26
+  offset: 0, 0
+  index: -1
+dino_jump
+  rotate: false
+  xy: 1806, 386
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+floor_tile
+  rotate: false
+  xy: 904, 202
+  size: 900, 300
+  orig: 900, 300
+  offset: 0, 0
+  index: -1
+gameover
+  rotate: false
+  xy: 2, 75
+  size: 900, 427
+  orig: 900, 427
+  offset: 0, 0
+  index: -1
